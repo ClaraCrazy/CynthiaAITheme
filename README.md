@@ -12,7 +12,7 @@ A custom theme based on the OperaGxGamingTheme made by [TomRdh](https://github.c
 
 - No 2021 Rebrand
 
-- Opera GX Style [With lots of small design changes and a handful of changes]
+- Opera GX Style [With lots of small design changes and a handful of bugfixes]
 
 - Custom Wallpaper
 
