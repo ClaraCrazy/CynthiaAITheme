@@ -1,6 +1,6 @@
-# CynthiaAIRedTheme
+# CynthiaAITheme
 
-A custom theme based on the OperaGxGamingTheme made by [TomRdh](https://github.com/Tomrdh/) with lots of other theme-parts thrown in as well. Includes:
+A custom set of themes based on the OperaGxGamingTheme made by [TomRdh](https://github.com/Tomrdh/) with lots of other theme-parts thrown in as well. Includes:
 
 - Colored Wumpus
 
@@ -18,3 +18,6 @@ A custom theme based on the OperaGxGamingTheme made by [TomRdh](https://github.c
 
 
 Customize to your liking!
+
+
+# I will upload new colors whenever I feel like switching my setup color. 👍
