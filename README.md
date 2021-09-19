@@ -19,5 +19,6 @@ A set of custom themes based on the OperaGxGamingTheme made by [TomRdh](https://
 
 Customize to your liking!
 
+(Note: For the transparent theme u need to have the BetterDiscord transparency enabled as well for it to work)
 
 # I will upload new colors whenever I feel like switching my setup color. 👍
