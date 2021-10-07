@@ -3,6 +3,15 @@
 
 
 
+/* Fancy new theme-part */
+
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+:root {
+--themeColor1: #8D24DCFF;
+--themeColor2: #2392E5FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/hwzhRf0.png');
+}
 /* Colored wumpus */
 @import url("https://nyri4.github.io/Discolored/main.css");
 /* Horizontal Server-list */
@@ -8732,12 +8741,3 @@ body > div[style*="position: absolute; transform: translateX(-25%);"] {
 }
 
 
-/* Fancy new theme-part */
-
-@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
-:root {
---themeColor1: #8D24DCFF;
---themeColor2: #2392E5FF;
---customFont: 'Open Sans';
---homeImage: url('https://i.imgur.com/hwzhRf0.png');
-}
