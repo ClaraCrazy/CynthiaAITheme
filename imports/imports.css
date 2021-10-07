@@ -8730,3 +8730,14 @@ body > div[style*="position: absolute; transform: translateX(-25%);"] {
 [id*="OGGT"] .bd-addon-header .bd-meta:before {
     content: "build " var(--oggt-build) " ";
 }
+
+
+/* Fancy new theme-part */
+
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+:root {
+--themeColor1: #8D24DCFF;
+--themeColor2: #2392E5FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/hwzhRf0.png');
+}
