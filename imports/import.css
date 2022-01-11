@@ -780,7 +780,11 @@ body,
 .full-motion.app-focused .preview-2nSL_2:hover {
     animation: accent-blinking 450ms infinite;
 }
-
+#app-mount {
+	background: var(--background) !important;
+	background-size: cover !important;
+	background-position: center !important;
+}
 /*~~ 6. AccentColors and Modifiers ~~*/
 /*-- 6.1. General recolor --*/
 /*== 6.1.1. NEW COLORS ==*/
