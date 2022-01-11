@@ -89,7 +89,7 @@
     justify-content: flex-end;
     padding: 0;
     margin-left: 8px;
-    background-color: var(--background-secondary-alt);
+    background-color: var(--secondary-alt);
     border-radius: var(--border-radius);
   }
   :root .userPopout-xaxa6l .headerTop-3vNv-a .profileBadges-ohc0Vu {
@@ -721,65 +721,7 @@ code,
 }
 
 /*~~ 5. Background ~~*/
-.theme-dark #app-mount,
-.theme-light #app-mount,
-.appMount-3lHmkl,
-body,
-.divider-3gKybi,
-.typing-2GQL18, .typing-2GQL18,
-.bg-h5JY_x,
-.guild-1EfMGQ .guildInner-3DSoA4,
-.messages-3amgkR,
-.panels-j1Uci_,
-.privateChannels-1nO12o,
-.childWrapper-anI2G9,
-.contentRegionScroller-26nc1e,
-.scroller-1JbKMe,
-.footer-3rDWdC,
-.standardSidebarView-3F1I7i,
-.messagesPopout-24nkyi,
-.friendsTable-133bsv .friendsTableBody-1ZhKif,
-.scroller-9moviB,
-.app-2rEoOp,
-.members-1998pB,
-.members-1998pB > div,
-.chat-3bRxxu,
-.wrapper-1Rf91z,
-.container-PNkimc,
-#app-mount .container-1D34oG,
-.applicationStore-1pNvnv,
-.emptyCard-1RJw8n,
-.scroller-2XE8rp,
-.content-MLh4nU,
-.container-3w7J-x,
-.container-2wlB3z {
-    background: transparent;
-}
-.theme-dark #app-mount,
-.theme-light #app-mount {
-    background: var(--background) center;
-    background-size: cover;
-}
-.theme-dark,
-.theme-light {
-    background: var(--background-behind-appmount);
-}
-.layer-2KE1M9 .theme-dark,
-.layer-2KE1M9 .theme-light {
-    background: none;
-}
-.preview-2nSL_2 {
-    background: var(--background) center;
-    background-size: cover;
-    border: solid 1px rgb(var(--dark-background-color));
-    border-radius: 0;
-}
-.preview-2nSL_2:hover {
-    border: solid 1px rgb(var(--accent-color-2));
-}
-.full-motion.app-focused .preview-2nSL_2:hover {
-    animation: accent-blinking 450ms infinite;
-}
+
 #app-mount {
 	background: var(--background) !important;
 	background-size: cover !important;
